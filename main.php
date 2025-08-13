@@ -11,6 +11,7 @@
     echo " school: $school \n <br>";
     echo " course: $course \n <br>";
     echo " subject: $subject \n <br>";
-    echo "student:" , ($student ? "Yes" : "No") . "<br> \n<br>";
+    echo "student:" , ($student ? "Yes" : "No") . "<br> \n<br>"; 
+    
 
 ?>
